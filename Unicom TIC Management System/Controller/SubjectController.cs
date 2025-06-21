@@ -65,5 +65,33 @@ namespace Unicom_TIC_Management_System.Controller
 
             return subjects;
         }
+
+        public List<Subject> GetAllSubject()
+        {
+            List<Subject> subjects = new List<Subject>();
+
+            using (var conn = DBConfig.GetConnection())
+            {
+                string query = "SELECT SubjectID, SubjectName FROM Subject";
+                using (SQLiteCommand cmd = new SQLiteCommand(query, conn))
+                {
+                    using (SQLiteDataReader reader = cmd.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            var subject = new Subject
+                            {
+                                CourseID = Convert.ToInt32(reader["SubjectID"]),  
+                                Name = reader["SubjectName"].ToString()
+                            };
+                            subjects.Add(subject);
+                        }
+                    }
+                }
+            }
+
+            return subjects;
+        }
+
     }
 }

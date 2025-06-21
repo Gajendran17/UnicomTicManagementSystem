@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Windows.Forms;
 using Unicom_TIC_Management_System.Controller;
 using Unicom_TIC_Management_System.Model;
@@ -17,8 +18,19 @@ namespace Unicom_TIC_Management_System
 
         private void LecturerAccountCreation_Load(object sender, EventArgs e)
         {
-
+            LoadSubjectToComboBox();
         }
+
+        private void LoadSubjectToComboBox()
+        {
+            SubjectController controller = new SubjectController();
+            List<Subject> subjects = controller.GetAllSubject();
+
+            Subject.DataSource = subjects;
+            Subject.ValueMember = "CourseID";   
+            Subject.DisplayMember = "Name";     
+        }
+
 
         private void Submit_Click(object sender, EventArgs e)
         {
@@ -42,6 +54,11 @@ namespace Unicom_TIC_Management_System
         }
 
         private void LcFullName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Subject_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

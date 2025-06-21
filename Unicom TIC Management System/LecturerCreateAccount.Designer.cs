@@ -180,6 +180,8 @@
             this.Subject.Name = "Subject";
             this.Subject.Size = new System.Drawing.Size(221, 21);
             this.Subject.TabIndex = 31;
+            this.Subject.Text = " ";
+            this.Subject.SelectedIndexChanged += new System.EventHandler(this.Subject_SelectedIndexChanged);
             // 
             // label6
             // 

@@ -58,6 +58,7 @@
     <Compile Include="Controller\MarkController.cs" />
     <Compile Include="Controller\MentorController.cs" />
     <Compile Include="Controller\RoomController.cs" />
+    <Compile Include="Controller\StaffConroller.cs" />
     <Compile Include="Controller\StudentController.cs" />
     <Compile Include="Controller\SubjectController.cs" />
     <Compile Include="Controller\TimeTableController.cs" />
@@ -81,7 +82,7 @@
       <DependentUpon>Mentor.cs</DependentUpon>
     </Compile>
     <Compile Include="Model\Course.cs" />
-    <Compile Include="Model\Mentor.cs" />
+    <Compile Include="Model\Mentors.cs" />
     <Compile Include="StudentCreatAccount.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -136,9 +137,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="DeshBoard.resx">
       <DependentUpon>DeshBoard.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Mentor.resx">
-      <DependentUpon>Mentor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="StaffCreateAccount.resx">
       <DependentUpon>StaffCreateAccount.cs</DependentUpon>

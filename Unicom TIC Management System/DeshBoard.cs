@@ -47,8 +47,17 @@ namespace Unicom_TIC_Management_System
 
         private void button2_Click(object sender, EventArgs e)
         {
+            MainPanel.Controls.Clear();
 
+            LecturerAccountCreation lecturerForm = new LecturerAccountCreation();
+            lecturerForm.TopLevel = false;
+            lecturerForm.FormBorderStyle = FormBorderStyle.None;
+            lecturerForm.Dock = DockStyle.Fill;
+
+            MainPanel.Controls.Add(lecturerForm);
+            lecturerForm.Show();
         }
+
 
         private void Back_Click(object sender, EventArgs e)
         {
@@ -76,6 +85,19 @@ namespace Unicom_TIC_Management_System
             courseForm.LoadCourse();
         }
 
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            MainPanel.Controls.Clear();
+
+            SubjectForm subjectForm = new SubjectForm();
+            subjectForm.TopLevel = false;
+            subjectForm.FormBorderStyle = FormBorderStyle.None;
+            subjectForm.Dock = DockStyle.Fill;
+
+            MainPanel.Controls.Add(subjectForm);
+            subjectForm.Show(); 
+        }
+
     }
-    
+
 }

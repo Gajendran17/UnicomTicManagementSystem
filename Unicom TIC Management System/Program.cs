@@ -20,7 +20,7 @@ namespace Unicom_TIC_Management_System
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
        
-            Application.Run(new StudenAccountCreate());
+            Application.Run(new DeshBoard());
         }
     }
 }

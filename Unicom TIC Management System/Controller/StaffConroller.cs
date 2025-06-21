@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unicom_TIC_Management_System.Model
+namespace Unicom_TIC_Management_System.Controller
 {
-    internal class Mentor
+    internal class StaffConroller
     {
+
     }
 }

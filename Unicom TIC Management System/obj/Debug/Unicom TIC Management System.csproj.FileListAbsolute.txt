@@ -1,21 +1,20 @@
-Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\Unicom TIC Management System.exe.config
-Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\Unicom TIC Management System.exe
-Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\Unicom TIC Management System.pdb
-Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\System.Data.SQLite.dll
-Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\System.Data.SQLite.xml
 Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom TIC Management System.csproj.AssemblyReference.cache
+Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.CourseForm.resources
 Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.DeshBoard.resources
-Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.Mentor.resources
 Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.StaffCreateAccount.resources
 Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.StudenAccountCreate.resources
 Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.MainLogin.resources
 Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.LecturerAccountCreation.resources
 Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.Properties.Resources.resources
 Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.StudentInfo.resources
+Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.SubjectForm.resources
 Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom TIC Management System.csproj.GenerateResource.cache
 Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom TIC Management System.csproj.CoreCompileInputs.cache
+Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\Unicom TIC Management System.exe.config
+Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\Unicom TIC Management System.exe
+Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\Unicom TIC Management System.pdb
+Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\System.Data.SQLite.dll
+Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\System.Data.SQLite.xml
 Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom T.077940FC.Up2Date
 Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom TIC Management System.exe
 Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom TIC Management System.pdb
-Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.CourseForm.resources
-Z:\c#\UMS\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.SubjectForm.resources
