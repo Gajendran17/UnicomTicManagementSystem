@@ -108,6 +108,14 @@ namespace Unicom_TIC_Management_System.Data
                         FOREIGN KEY(StudentID) REFERENCES Student(StudentID),
                         FOREIGN KEY(ExamID) REFERENCES Exam(ExamID)
                     );
+                    CREATE TABLE IF NOT EXISTS Staff (
+                        StaffID INTEGER PRIMARY KEY,
+                        StaffName TEXT NOT NULL,
+                        StaffNIC TEXT NOT NULL,
+                        StaffPhNum TEXT NOT NULL,
+                        UserID INTEGER,
+                        FOREIGN KEY(UserID) REFERENCES User(UserID)
+                    );
                     ";
 
 

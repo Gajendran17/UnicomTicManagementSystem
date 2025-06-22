@@ -42,8 +42,6 @@
             this.SfUName = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.Work = new System.Windows.Forms.ComboBox();
             this.label6 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -69,6 +67,7 @@
             this.SfPhnum.Name = "SfPhnum";
             this.SfPhnum.Size = new System.Drawing.Size(221, 20);
             this.SfPhnum.TabIndex = 27;
+            this.SfPhnum.Text = " ";
             // 
             // PhNum
             // 
@@ -85,6 +84,7 @@
             this.SfNICtxt.Name = "SfNICtxt";
             this.SfNICtxt.Size = new System.Drawing.Size(221, 20);
             this.SfNICtxt.TabIndex = 25;
+            this.SfNICtxt.Text = " ";
             // 
             // NIC
             // 
@@ -137,6 +137,7 @@
             this.SfPword.Name = "SfPword";
             this.SfPword.Size = new System.Drawing.Size(221, 23);
             this.SfPword.TabIndex = 18;
+            this.SfPword.Text = " ";
             // 
             // SfUName
             // 
@@ -145,6 +146,7 @@
             this.SfUName.Name = "SfUName";
             this.SfUName.Size = new System.Drawing.Size(221, 23);
             this.SfUName.TabIndex = 17;
+            this.SfUName.Text = " ";
             // 
             // label2
             // 
@@ -164,24 +166,6 @@
             this.label1.TabIndex = 15;
             this.label1.Text = "User Name         : ";
             // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(263, 316);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(87, 13);
-            this.label3.TabIndex = 28;
-            this.label3.Text = "Work                : ";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
-            // 
-            // Work
-            // 
-            this.Work.FormattingEnabled = true;
-            this.Work.Location = new System.Drawing.Point(368, 316);
-            this.Work.Name = "Work";
-            this.Work.Size = new System.Drawing.Size(221, 21);
-            this.Work.TabIndex = 29;
-            // 
             // label6
             // 
             this.label6.AutoSize = true;
@@ -199,8 +183,6 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(876, 653);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.Work);
-            this.Controls.Add(this.label3);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.SfPhnum);
             this.Controls.Add(this.PhNum);
@@ -216,6 +198,7 @@
             this.Controls.Add(this.label1);
             this.Name = "StaffCreateAccount";
             this.Text = "StaffCreateAccount";
+            this.Load += new System.EventHandler(this.StaffCreateAccount_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -236,8 +219,6 @@
         private System.Windows.Forms.TextBox SfUName;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.ComboBox Work;
         private System.Windows.Forms.Label label6;
     }
 }

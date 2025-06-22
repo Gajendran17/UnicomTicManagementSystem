@@ -70,5 +70,16 @@ namespace Unicom_TIC_Management_System.Controller
 
             return students;
         }
+
+        public void DeleteStudent(int id)
+        {
+            using (var conn = DBConfig.GetConnection())
+            {
+                var cmd = conn.CreateCommand();
+                cmd.CommandText = "DELETE FROM Student WHERE StudentID = @id";
+                cmd.Parameters.AddWithValue("@id", id);
+                cmd.ExecuteNonQuery();
+            }
+        }
     }
 }

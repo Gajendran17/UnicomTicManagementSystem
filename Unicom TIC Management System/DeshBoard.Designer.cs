@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DeshBoard));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.Out = new System.Windows.Forms.Button();
             this.Back = new System.Windows.Forms.Button();
@@ -40,7 +41,6 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.MainPanel = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.button2 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.MainPanel.SuspendLayout();
             this.SuspendLayout();
@@ -63,6 +63,16 @@
             this.panel1.Size = new System.Drawing.Size(139, 475);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(12, 303);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(110, 20);
+            this.button2.TabIndex = 8;
+            this.button2.Text = " Subject";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click_1);
             // 
             // button1
             // 
@@ -113,6 +123,7 @@
             this.Staff.TabIndex = 2;
             this.Staff.Text = "Staff";
             this.Staff.UseVisualStyleBackColor = true;
+            this.Staff.Click += new System.EventHandler(this.Staff_Click);
             // 
             // Lecturer
             // 
@@ -168,16 +179,6 @@
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(611, 14);
             this.panel4.TabIndex = 0;
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(12, 303);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(110, 20);
-            this.button2.TabIndex = 8;
-            this.button2.Text = " Subject";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click_1);
             // 
             // DeshBoard
             // 

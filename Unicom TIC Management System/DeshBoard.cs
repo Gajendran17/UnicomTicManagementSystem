@@ -63,6 +63,7 @@ namespace Unicom_TIC_Management_System
         {
             MainLogin gog = new MainLogin();
             gog.Show(); 
+            this.Hide();
         }
 
         private void Out_Click(object sender, EventArgs e)
@@ -97,6 +98,26 @@ namespace Unicom_TIC_Management_System
             MainPanel.Controls.Add(subjectForm);
             subjectForm.Show(); 
         }
+
+        private void Staff_Click(object sender, EventArgs e)
+        {
+            MainPanel.Controls.Clear();  
+
+  
+            StaffInfo staffInfoForm = new StaffInfo();
+
+          
+            staffInfoForm.TopLevel = false;             
+            staffInfoForm.FormBorderStyle = FormBorderStyle.None;
+            staffInfoForm.Dock = DockStyle.Fill;           
+
+            MainPanel.Controls.Add(staffInfoForm);
+
+            staffInfoForm.Show();
+ 
+            staffInfoForm.LoadStaff();
+        }
+
 
     }
 

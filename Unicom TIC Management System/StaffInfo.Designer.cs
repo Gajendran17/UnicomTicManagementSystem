@@ -1,6 +1,6 @@
 ﻿namespace Unicom_TIC_Management_System
 {
-    partial class StudentInfo
+    partial class StaffInfo
     {
         /// <summary>
         /// Required designer variable.
@@ -28,34 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.dgvStudents = new System.Windows.Forms.DataGridView();
+            this.dgvStaff = new System.Windows.Forms.DataGridView();
             this.label2 = new System.Windows.Forms.Label();
-            this.MainPanel = new System.Windows.Forms.Panel();
             this.panel1 = new System.Windows.Forms.Panel();
             this.button3 = new System.Windows.Forms.Button();
             this.ID = new System.Windows.Forms.TextBox();
             this.name = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.MainPanel = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.DeleteStudent = new System.Windows.Forms.Button();
-            this.AddStudent = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvStudents)).BeginInit();
-            this.MainPanel.SuspendLayout();
+            this.DeleteStaff = new System.Windows.Forms.Button();
+            this.AddStaff = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvStaff)).BeginInit();
             this.panel1.SuspendLayout();
+            this.MainPanel.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
-            // dgvStudents
+            // dgvStaff
             // 
-            this.dgvStudents.BackgroundColor = System.Drawing.SystemColors.ActiveCaption;
-            this.dgvStudents.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvStudents.Location = new System.Drawing.Point(149, 232);
-            this.dgvStudents.Name = "dgvStudents";
-            this.dgvStudents.Size = new System.Drawing.Size(525, 394);
-            this.dgvStudents.TabIndex = 0;
-            this.dgvStudents.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvStudents_CellContentClick);
-            this.dgvStudents.SelectionChanged += new System.EventHandler(this.dgvStudents_SelectionChanged);
+            this.dgvStaff.BackgroundColor = System.Drawing.SystemColors.ActiveCaption;
+            this.dgvStaff.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvStaff.Location = new System.Drawing.Point(149, 232);
+            this.dgvStaff.Name = "dgvStaff";
+            this.dgvStaff.Size = new System.Drawing.Size(525, 394);
+            this.dgvStaff.TabIndex = 0;
+            this.dgvStaff.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvStaff_CellContentClick);
+            this.dgvStaff.SelectionChanged += new System.EventHandler(this.dgvStaff_SelectionChanged);
             // 
             // label2
             // 
@@ -65,22 +65,9 @@
             this.label2.Margin = new System.Windows.Forms.Padding(15, 0, 16, 0);
             this.label2.Name = "label2";
             this.label2.Padding = new System.Windows.Forms.Padding(10, 0, 10, 0);
-            this.label2.Size = new System.Drawing.Size(174, 35);
+            this.label2.Size = new System.Drawing.Size(141, 35);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Student Info";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
-            // 
-            // MainPanel
-            // 
-            this.MainPanel.Controls.Add(this.dgvStudents);
-            this.MainPanel.Controls.Add(this.label2);
-            this.MainPanel.Controls.Add(this.panel1);
-            this.MainPanel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.MainPanel.Location = new System.Drawing.Point(0, 0);
-            this.MainPanel.Name = "MainPanel";
-            this.MainPanel.Size = new System.Drawing.Size(1022, 638);
-            this.MainPanel.TabIndex = 5;
-            this.MainPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.MainPanel_Paint);
+            this.label2.Text = "Staff Info";
             // 
             // panel1
             // 
@@ -93,7 +80,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1022, 178);
+            this.panel1.Size = new System.Drawing.Size(800, 178);
             this.panel1.TabIndex = 3;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
@@ -114,7 +101,6 @@
             this.ID.Size = new System.Drawing.Size(266, 20);
             this.ID.TabIndex = 11;
             this.ID.Text = " ";
-            this.ID.TextChanged += new System.EventHandler(this.ID_TextChanged);
             // 
             // name
             // 
@@ -122,7 +108,6 @@
             this.name.Name = "name";
             this.name.Size = new System.Drawing.Size(266, 20);
             this.name.TabIndex = 10;
-            this.name.TextChanged += new System.EventHandler(this.name_TextChanged);
             // 
             // label1
             // 
@@ -132,7 +117,6 @@
             this.label1.Size = new System.Drawing.Size(18, 13);
             this.label1.TabIndex = 9;
             this.label1.Text = "ID";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label3
             // 
@@ -142,56 +126,65 @@
             this.label3.Size = new System.Drawing.Size(35, 13);
             this.label3.TabIndex = 8;
             this.label3.Text = "Name";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // MainPanel
+            // 
+            this.MainPanel.Controls.Add(this.dgvStaff);
+            this.MainPanel.Controls.Add(this.label2);
+            this.MainPanel.Controls.Add(this.panel1);
+            this.MainPanel.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.MainPanel.Location = new System.Drawing.Point(0, 0);
+            this.MainPanel.Name = "MainPanel";
+            this.MainPanel.Size = new System.Drawing.Size(800, 450);
+            this.MainPanel.TabIndex = 7;
+            this.MainPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.MainPanel_Paint);
             // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.SystemColors.ControlLight;
             this.panel2.BackgroundImage = global::Unicom_TIC_Management_System.Properties.Resources.th;
-            this.panel2.Controls.Add(this.DeleteStudent);
-            this.panel2.Controls.Add(this.AddStudent);
+            this.panel2.Controls.Add(this.DeleteStaff);
+            this.panel2.Controls.Add(this.AddStaff);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(120, 638);
-            this.panel2.TabIndex = 4;
-            this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
+            this.panel2.Size = new System.Drawing.Size(120, 450);
+            this.panel2.TabIndex = 6;
             // 
-            // DeleteStudent
+            // DeleteStaff
             // 
-            this.DeleteStudent.Location = new System.Drawing.Point(4, 116);
-            this.DeleteStudent.Name = "DeleteStudent";
-            this.DeleteStudent.Size = new System.Drawing.Size(93, 23);
-            this.DeleteStudent.TabIndex = 6;
-            this.DeleteStudent.Text = "Delete Student";
-            this.DeleteStudent.UseVisualStyleBackColor = true;
-            this.DeleteStudent.Click += new System.EventHandler(this.DeleteStudent_Click);
+            this.DeleteStaff.Location = new System.Drawing.Point(4, 116);
+            this.DeleteStaff.Name = "DeleteStaff";
+            this.DeleteStaff.Size = new System.Drawing.Size(93, 23);
+            this.DeleteStaff.TabIndex = 6;
+            this.DeleteStaff.Text = "Delete Staff";
+            this.DeleteStaff.UseVisualStyleBackColor = true;
+            this.DeleteStaff.Click += new System.EventHandler(this.DeleteStaff_Click);
             // 
-            // AddStudent
+            // AddStaff
             // 
-            this.AddStudent.Location = new System.Drawing.Point(3, 34);
-            this.AddStudent.Name = "AddStudent";
-            this.AddStudent.Size = new System.Drawing.Size(93, 23);
-            this.AddStudent.TabIndex = 5;
-            this.AddStudent.Text = "Add Student";
-            this.AddStudent.UseVisualStyleBackColor = true;
-            this.AddStudent.Click += new System.EventHandler(this.button1_Click);
+            this.AddStaff.Location = new System.Drawing.Point(3, 34);
+            this.AddStaff.Name = "AddStaff";
+            this.AddStaff.Size = new System.Drawing.Size(93, 23);
+            this.AddStaff.TabIndex = 5;
+            this.AddStaff.Text = " Add Staff";
+            this.AddStaff.UseVisualStyleBackColor = true;
+            this.AddStaff.Click += new System.EventHandler(this.AddStaff_Click);
             // 
-            // StudentInfo
+            // StaffInfo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1022, 638);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.MainPanel);
-            this.Name = "StudentInfo";
-            this.Text = "StudentInfo";
-            this.Load += new System.EventHandler(this.StudentInfo_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dgvStudents)).EndInit();
-            this.MainPanel.ResumeLayout(false);
-            this.MainPanel.PerformLayout();
+            this.Name = "StaffInfo";
+            this.Text = "StaffInfo";
+            ((System.ComponentModel.ISupportInitialize)(this.dgvStaff)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            this.MainPanel.ResumeLayout(false);
+            this.MainPanel.PerformLayout();
             this.panel2.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -199,17 +192,17 @@
 
         #endregion
 
-        private System.Windows.Forms.DataGridView dgvStudents;
+        private System.Windows.Forms.DataGridView dgvStaff;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Button AddStudent;
-        private System.Windows.Forms.Panel MainPanel;
-        private System.Windows.Forms.Button DeleteStudent;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.TextBox ID;
         private System.Windows.Forms.TextBox name;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Button DeleteStaff;
+        private System.Windows.Forms.Button AddStaff;
+        private System.Windows.Forms.Panel MainPanel;
     }
 }

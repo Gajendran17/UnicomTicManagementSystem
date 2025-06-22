@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -17,6 +18,7 @@ namespace Unicom_TIC_Management_System
         public StudentInfo()
         {
             InitializeComponent();
+
         }
 
         private void StudentInfo_Load(object sender, EventArgs e)
@@ -63,17 +65,126 @@ namespace Unicom_TIC_Management_System
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            //if (dgvStudents.SelectedRows.Count > 0)
-            //{
-            //    var row = dgvStudents.SelectedRows[0];
-            //    var studentView = row.DataBoundItem as Student;
+            
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
 
 
-            //    if (studentView != null)
-            //    {
-            //        int SelectedStudentId = studentView.Id;
-            //    }
-            //}
+        private void button3_Click(object sender, EventArgs e)
+        {
+          
+            if (dgvStudents.SelectedRows.Count > 0)
+            {
+                var selectedRow = dgvStudents.SelectedRows[0];
+
+                
+                var selectedStudent = selectedRow.DataBoundItem as Student;
+                name.Text = selectedStudent.Name;
+                if (selectedStudent != null)
+                {
+                   
+                    name.Text = selectedStudent.Name;
+                   
+
+                    ID.Text =  selectedStudent.Id.ToString(); 
+
+                    DialogResult result = MessageBox.Show("Are you sure you want to delete this student?",
+                                                          "Confirm Deletion",
+                                                          MessageBoxButtons.YesNo,
+                                                          MessageBoxIcon.Question);
+
+                    if (result == DialogResult.Yes)
+                    {
+                        
+                        StudentController controller = new StudentController();
+                        controller.DeleteStudent(selectedStudent.Id);
+
+                        
+                        LoadStudents();
+
+                        
+                        name.Clear();
+                        ID.Clear();
+                    }
+                }
+            }
+            else
+            {
+                
+                MessageBox.Show("Please select a student to delete.");
+            }
+        }
+
+        private void dgvStudents_SelectionChanged(object sender, EventArgs e)
+        {
+            if (dgvStudents.SelectedRows.Count > 0)
+            {
+               
+                var selectedRow = dgvStudents.SelectedRows[0];
+
+                
+                var selectedStudent = selectedRow.DataBoundItem as Student;
+
+                if (selectedStudent != null)
+                {
+                    
+                    name.Text = selectedStudent.Name;  
+                    ID.Text = selectedStudent.Id.ToString();  
+                }
+            }
+            else
+            {
+                
+                name.Clear();
+                ID.Clear();
+            }
+        }
+
+        private void DeleteStudent_Click(object sender, EventArgs e)
+        {
+            MainPanel.Controls.Clear();
+            StudentInfo studentForm = new StudentInfo();
+
+            studentForm.TopLevel = false;
+            studentForm.FormBorderStyle = FormBorderStyle.None;
+            studentForm.Dock = DockStyle.Fill;
+            MainPanel.Controls.Add(studentForm);
+            studentForm.Show();
+            studentForm.LoadStudents();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void MainPanel_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void ID_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void name_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
