@@ -1,0 +1,770 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\c#\\UMS\\Unicom TIC Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\subjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\subjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\subjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\subjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\lectureinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\lectureinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\lectureinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\lectureinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\lecturerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\lecturerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\controller\\lecturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\controller\\lecturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\model\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\model\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\model\\subjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\model\\subjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\controller\\adminconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\controller\\adminconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\lecturercreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\lecturercreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\lecturercreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\lecturercreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\staffcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\staffcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\staffcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\staffcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\lectureinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\lectureinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\controller\\studentcourseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\controller\\studentcourseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\controller\\courseconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\controller\\courseconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\data\\migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\data\\migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\controller\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\controller\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\deshboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\deshboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\deshboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\deshboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\mainlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\mainlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\mainlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\mainlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\studentcreataccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\studentcreataccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\studentcreataccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\studentcreataccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\model\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\model\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\controller\\staffconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\controller\\staffconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\controller\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\controller\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|z:\\c#\\ums\\unicom tic management system\\unicom tic management system\\staffinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\staffinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\staffinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\staffinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\model\\publicmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\model\\publicmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\studentinfo.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\studentinfo.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\deshboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\deshboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\model\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\model\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|Z:\\c#\\UMS\\Unicom TIC Management System\\unicom tic management system\\controller\\mentorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE30CB-6E45-45F2-9437-61B718F2F5C4}|Unicom TIC Management System\\Unicom TIC Management System.csproj|solutionrelative:unicom tic management system\\controller\\mentorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LectureInfo.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\LectureInfo.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\LectureInfo.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\LectureInfo.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\LectureInfo.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAMwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:33:16.185Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LectureInfo.cs [Design]",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\LectureInfo.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\LectureInfo.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\LectureInfo.cs [Design]",
+              "RelativeToolTip": "Unicom TIC Management System\\LectureInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:08:30.134Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminConroller.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\AdminConroller.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Controller\\AdminConroller.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\AdminConroller.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Controller\\AdminConroller.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:04:18.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubjectForm.cs [Design]",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\SubjectForm.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\SubjectForm.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\SubjectForm.cs [Design]",
+              "RelativeToolTip": "Unicom TIC Management System\\SubjectForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:45:50.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubjectForm.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\SubjectForm.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\SubjectForm.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\SubjectForm.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\SubjectForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwEYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:45:54.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LecturerCreateAccount.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\LecturerCreateAccount.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\LecturerCreateAccount.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\LecturerCreateAccount.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\LecturerCreateAccount.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA8wCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:25:05.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LecturerInfo.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\LecturerInfo.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\LecturerInfo.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\LecturerInfo.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\LecturerInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:57:55.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lecture.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\Lecture.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Model\\Lecture.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\Lecture.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Model\\Lecture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:55:41.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubjectViewModel.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\SubjectViewModel.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Model\\SubjectViewModel.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\SubjectViewModel.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Model\\SubjectViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:07:50.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LectureController.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\LectureController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Controller\\LectureController.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\LectureController.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Controller\\LectureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:12:15.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StaffCreateAccount.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StaffCreateAccount.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\StaffCreateAccount.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StaffCreateAccount.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\StaffCreateAccount.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwEoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:25:17.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StaffCreateAccount.cs [Design]",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StaffCreateAccount.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\StaffCreateAccount.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StaffCreateAccount.cs [Design]",
+              "RelativeToolTip": "Unicom TIC Management System\\StaffCreateAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:24:40.545Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LecturerCreateAccount.cs [Design]",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\LecturerCreateAccount.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\LecturerCreateAccount.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\LecturerCreateAccount.cs [Design]",
+              "RelativeToolTip": "Unicom TIC Management System\\LecturerCreateAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:39:18.407Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LectureInfo.Designer.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\LectureInfo.Designer.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\LectureInfo.Designer.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\LectureInfo.Designer.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\LectureInfo.Designer.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAIwJIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:09:34.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentCourseViewModel.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\StudentCourseViewModel.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Controller\\StudentCourseViewModel.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\StudentCourseViewModel.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Controller\\StudentCourseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:10:30.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourseConroller.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\CourseConroller.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Controller\\CourseConroller.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\CourseConroller.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Controller\\CourseConroller.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwBUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T06:41:19.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Migration.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Data\\Migration.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Data\\Migration.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Data\\Migration.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Data\\Migration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwDEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:22:12.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\SubjectController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Controller\\SubjectController.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\SubjectController.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Controller\\SubjectController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:36:34.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeshBoard.cs [Design]",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\DeshBoard.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\DeshBoard.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\DeshBoard.cs [Design]",
+              "RelativeToolTip": "Unicom TIC Management System\\DeshBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:20:15.409Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeshBoard.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\DeshBoard.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\DeshBoard.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\DeshBoard.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\DeshBoard.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:22:19.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainLogin.cs [Design]",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\MainLogin.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\MainLogin.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\MainLogin.cs [Design]",
+              "RelativeToolTip": "Unicom TIC Management System\\MainLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:08:03.829Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentInfo.cs [Design]",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StudentInfo.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\StudentInfo.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StudentInfo.cs [Design]",
+              "RelativeToolTip": "Unicom TIC Management System\\StudentInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:29:51.13Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainLogin.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\MainLogin.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\MainLogin.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\MainLogin.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\MainLogin.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAmwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:08:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Controller\\UserController.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\UserController.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Controller\\UserController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:08:33.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Model\\User.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\User.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:35:41.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentCreatAccount.cs [Design]",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StudentCreatAccount.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\StudentCreatAccount.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StudentCreatAccount.cs [Design]",
+              "RelativeToolTip": "Unicom TIC Management System\\StudentCreatAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T09:35:52.078Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentCreatAccount.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StudentCreatAccount.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\StudentCreatAccount.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StudentCreatAccount.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\StudentCreatAccount.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAIA4wHAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:20:23.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Course.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Model\\Course.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\Course.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Model\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:08:41.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Program.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Program.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:25:36.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CourseForm.cs [Design]",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\CourseForm.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\CourseForm.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\CourseForm.cs [Design]",
+              "RelativeToolTip": "Unicom TIC Management System\\CourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:08:29.398Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CourseForm.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\CourseForm.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\CourseForm.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\CourseForm.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\CourseForm.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAnwHkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:08:30.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\Admin.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Model\\Admin.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\Admin.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Model\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:27:31.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StaffConroller.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\StaffConroller.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Controller\\StaffConroller.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\StaffConroller.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Controller\\StaffConroller.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:47:58.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TimeTableController.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\TimeTableController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Controller\\TimeTableController.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\TimeTableController.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Controller\\TimeTableController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:54:24.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StudentInfo.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StudentInfo.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\StudentInfo.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StudentInfo.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\StudentInfo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:29:54.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\StudentController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Controller\\StudentController.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\StudentController.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Controller\\StudentController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwEYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:36:18.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Student.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Model\\Student.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\Student.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:34:21.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StaffInfo.cs [Design]",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StaffInfo.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\StaffInfo.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StaffInfo.cs [Design]",
+              "RelativeToolTip": "Unicom TIC Management System\\StaffInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:47:02.214Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StaffInfo.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StaffInfo.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\StaffInfo.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StaffInfo.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\StaffInfo.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T08:53:21.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "publicMethods.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\publicMethods.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Model\\publicMethods.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\publicMethods.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Model\\publicMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:16:43.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StudentInfo.resx",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StudentInfo.resx",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\StudentInfo.resx",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\StudentInfo.resx",
+              "RelativeToolTip": "Unicom TIC Management System\\StudentInfo.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-23T07:57:42.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Mentor.cs [Design]",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Mentor.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Mentor.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Mentor.cs [Design]",
+              "RelativeToolTip": "Unicom TIC Management System\\Mentor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:18:15.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DeshBoard.Designer.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\DeshBoard.Designer.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\DeshBoard.Designer.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\DeshBoard.Designer.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\DeshBoard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:51:46.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\Exam.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Model\\Exam.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Model\\Exam.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Model\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:20:56.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MentorController.cs",
+              "DocumentMoniker": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\MentorController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC Management System\\Controller\\MentorController.cs",
+              "ToolTip": "Z:\\c#\\UMS\\Unicom TIC Management System\\Unicom TIC Management System\\Controller\\MentorController.cs",
+              "RelativeToolTip": "Unicom TIC Management System\\Controller\\MentorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T05:52:53.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
